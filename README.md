@@ -1,4 +1,12 @@
 ### Hi there 👋
+![Apoorv's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorvagnihotri&theme=dracula&show_icons=true&include_all_commits=true)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvagnihotri&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+The best way to contact me is to use my email address.
+
 
 <!--
 **apoorvagnihotri/apoorvagnihotri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
